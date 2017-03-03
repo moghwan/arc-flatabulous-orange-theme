@@ -4,7 +4,7 @@ This is a fork of the Arc Flatabulous theme at https://github.com/andreisergiu98
 This theme has the flavor of Ubuntu accent orange color.
 
 ### Preview
-![Preview](https://i.imgur.com/Iyxz3IO.png)
+![Preview](http://i.imgur.com/8CI9iim.png)
 
 ### Requirements
 
