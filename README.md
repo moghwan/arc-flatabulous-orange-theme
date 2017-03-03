@@ -45,7 +45,7 @@ Theme from: https://github.com/horst3180/arc-theme To install this theme, drag a
 
 Arc Orange Icon set theme (Paper icon set backup)
 
-Theme from: https://github.com/chaouimar1/arc-orange-icon-theme -- Modified to inherit Paper icon set for missing icons, instead of Moka: https://github.com/snwh/paper-gtk-theme
+Icons from: https://github.com/chaouimar1/arc-orange-icon-theme -- Modified to inherit Paper icon set for missing icons, instead of Moka: https://github.com/snwh/paper-gtk-theme
 
 ### Soon
 Arc Flatabulous Orange Dark & Darker are comming lately.
